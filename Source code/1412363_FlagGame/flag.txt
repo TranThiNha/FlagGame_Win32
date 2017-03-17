@@ -1,0 +1,223 @@
+flags\\Afghanistan.bmp
+flags\\Albania.bmp
+flags\\Algeria.bmp
+flags\\American Samoa.bmp
+flags\\Andorra.bmp
+flags\\Angola.bmp
+flags\\Anguilla.bmp
+flags\\Antigua and Barbuda.bmp
+flags\\Argentina.bmp
+flags\\Armenia.bmp
+flags\\Aruba.bmp
+flags\\Australia.bmp
+flags\\Austria.bmp
+flags\\Azerbaijan.bmp
+flags\\Bahamas.bmp
+flags\\Bahrain.bmp
+flags\\Bangladesh.bmp
+flags\\Barbados.bmp
+flags\\Belarus.bmp
+flags\\Belgium.bmp
+flags\\Belize.bmp
+flags\\Benin.bmp
+flags\\Bermuda.bmp
+flags\\Bhutan.bmp
+flags\\Bolivia.bmp
+flags\\Bosnia.bmp
+flags\\Botswana.bmp
+flags\\Brazil.bmp
+flags\\British Virgin Islands.bmp
+flags\\Brunei.bmp
+flags\\Bulgaria.bmp
+flags\\Burkina Faso.bmp
+flags\\Burundi.bmp
+flags\\Cambodia.bmp
+flags\\Cameroon.bmp
+flags\\Canada.bmp
+flags\\Cape Verde.bmp
+flags\\Cayman Islands.bmp
+flags\\Central African Republic.bmp
+flags\\Chad.bmp
+flags\\Chile.bmp
+flags\\China.bmp
+flags\\Christmas Island.bmp
+flags\\Colombia.bmp
+flags\\Comoros.bmp
+flags\\Cook Islands.bmp
+flags\\Costa Rica.bmp
+flags\\Côte d'Ivoire.bmp
+flags\\Croatia.bmp
+flags\\Cuba.bmp
+flags\\Cyprus.bmp
+flags\\Czech Republic.bmp
+flags\\Democratic Republic of the Congo.bmp
+flags\\Denmark.bmp
+flags\\Djibouti.bmp
+flags\\Dominica.bmp
+flags\\Dominican Republic.bmp
+flags\\Ecuador.bmp
+flags\\Egypt.bmp
+flags\\El Salvador.bmp
+flags\\Equatorial Guinea.bmp
+flags\\Eritrea.bmp
+flags\\Estonia.bmp
+flags\\Ethiopia.bmp
+flags\\Falkland Islands.bmp
+flags\\Faroe Islands.bmp
+flags\\Fiji.bmp
+flags\\Finland.bmp
+flags\\France.bmp
+flags\\French Polynesia.bmp
+flags\\Gabon.bmp
+flags\\Gambia.bmp
+flags\\Georgia.bmp
+flags\\Germany.bmp
+flags\\Ghana.bmp
+flags\\Gibraltar.bmp
+flags\\Greece.bmp
+flags\\Greenland.bmp
+flags\\Grenada.bmp
+flags\\Guam.bmp
+flags\\Guatemala.bmp
+flags\\Guinea Bissau.bmp
+flags\\Guinea.bmp
+flags\\Guyana.bmp
+flags\\Haiti.bmp
+flags\\Honduras.bmp
+flags\\Hong Kong.bmp
+flags\\Hungary.bmp
+flags\\Iceland.bmp
+flags\\India.bmp
+flags\\Indonesia.bmp
+flags\\Iran.bmp
+flags\\Iraq.bmp
+flags\\Ireland.bmp
+flags\\Israel.bmp
+flags\\Italy.bmp
+flags\\Jamaica.bmp
+flags\\Japan.bmp
+flags\\Jordan.bmp
+flags\\Kazakhstan.bmp
+flags\\Kenya.bmp
+flags\\Kiribati.bmp
+flags\\Kuwait.bmp
+flags\\Kyrgyzstan.bmp
+flags\\Laos.bmp
+flags\\Latvia.bmp
+flags\\Lebanon.bmp
+flags\\Lesotho.bmp
+flags\\Liberia.bmp
+flags\\Libya.bmp
+flags\\Liechtenstein.bmp
+flags\\Lithuania.bmp
+flags\\Luxembourg.bmp
+flags\\Macao.bmp
+flags\\Macedonia.bmp
+flags\\Madagascar.bmp
+flags\\Malawi.bmp
+flags\\Malaysia.bmp
+flags\\Maldives.bmp
+flags\\Mali.bmp
+flags\\Malta.bmp
+flags\\Marshall_Islands.bmp
+flags\\Martinique.bmp
+flags\\Mauritania.bmp
+flags\\Mauritius.bmp
+flags\\Mexico.bmp
+flags\\Micronesia.bmp
+flags\\Moldova.bmp
+flags\\Monaco.bmp
+flags\\Mongolia.bmp
+flags\\Montserrat.bmp
+flags\\Morocco.bmp
+flags\\Mozambique.bmp
+flags\\Myanmar.bmp
+flags\\Namibia.bmp
+flags\\Nauru.bmp
+flags\\Nepal.bmp
+flags\\Netherlands Antilles.bmp
+flags\\Netherlands.bmp
+flags\\New Zealand.bmp
+flags\\Nicaragua.bmp
+flags\\Niger.bmp
+flags\\Nigeria.bmp
+flags\\Niue.bmp
+flags\\Norfolk Island.bmp
+flags\\North Korea.bmp
+flags\\Norway.bmp
+flags\\Oman.bmp
+flags\\Pakistan.bmp
+flags\\Palau.bmp
+flags\\Panama.bmp
+flags\\Papua New Guinea.bmp
+flags\\Paraguay.bmp
+flags\\Peru.bmp
+flags\\Philippines.bmp
+flags\\Pitcairn Islands.bmp
+flags\\Poland.bmp
+flags\\Portugal.bmp
+flags\\Puerto Rico.bmp
+flags\\Qatar.bmp
+flags\\Republic of the Congo.bmp
+flags\\Romania.bmp
+flags\\Russian Federation.bmp
+flags\\Rwanda.bmp
+flags\\Saint Kitts and Nevis.bmp
+flags\\Saint Lucia.bmp
+flags\\Saint Pierre.bmp
+flags\\Saint Vicent and the Grenadines.bmp
+flags\\Samoa.bmp
+flags\\San Marino.bmp
+flags\\Sao Tomé and Príncipe.bmp
+flags\\Saudi Arabia.bmp
+flags\\Senegal.bmp
+flags\\Serbia and Montenegro.bmp
+flags\\Seychelles.bmp
+flags\\Sierra Leone.bmp
+flags\\Singapore.bmp
+flags\\Slovakia.bmp
+flags\\Slovenia.bmp
+flags\\Soloman_Islands.bmp
+flags\\Somalia.bmp
+flags\\South Africa.bmp
+flags\\South Georgia.bmp
+flags\\South Korea.bmp
+flags\\Soviet Union.bmp
+flags\\Spain.bmp
+flags\\Sri Lanka.bmp
+flags\\Sudan.bmp
+flags\\Suriname.bmp
+flags\\Swaziland.bmp
+flags\\Sweden.bmp
+flags\\Switzerland.bmp
+flags\\Syria.bmp
+flags\\Taiwan.bmp
+flags\\Tajikistan.bmp
+flags\\Tanzania.bmp
+flags\\Thailand.bmp
+flags\\Tibet.bmp
+flags\\Timor-Leste.bmp
+flags\\Togo.bmp
+flags\\Tonga.bmp
+flags\\Trinidad and Tobago.bmp
+flags\\Tunisia.bmp
+flags\\Turkey.bmp
+flags\\Turkmenistan.bmp
+flags\\Turks and Caicos Islands.bmp
+flags\\Tuvalu.bmp
+flags\\UAE.bmp
+flags\\Uganda.bmp
+flags\\Ukraine.bmp
+flags\\United Kingdom.bmp
+flags\\United States of America.bmp
+flags\\Uruguay.bmp
+flags\\US Virgin Islands.bmp
+flags\\Uzbekistan.bmp
+flags\\Vanuatu.bmp
+flags\\Vatican City.bmp
+flags\\Venezuela.bmp
+flags\\Vietnam.bmp
+flags\\Wallis and Futuna.bmp
+flags\\Yemen.bmp
+flags\\Zambia.bmp
+flags\\Zimbabwe.bmp
